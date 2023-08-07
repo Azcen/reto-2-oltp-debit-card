@@ -29,3 +29,7 @@ pip install -r requirements.txt
 ```
 python main.py
 ```
+5.(opcional) Ejecuta los tests con:
+```
+pytest tests/
+```
